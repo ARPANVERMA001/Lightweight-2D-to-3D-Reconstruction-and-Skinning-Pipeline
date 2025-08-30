@@ -1,0 +1,3 @@
+/home/harshit/Desktop/CG/Team21_2022209_2022105/HyperSpec/CMakeFiles/skinning.dir
+/home/harshit/Desktop/CG/Team21_2022209_2022105/HyperSpec/CMakeFiles/edit_cache.dir
+/home/harshit/Desktop/CG/Team21_2022209_2022105/HyperSpec/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/skinning.dir/main.cpp.o CMakeFiles/skinning.dir/src/MeshLoader.cpp.o CMakeFiles/skinning.dir/src/Visualization.cpp.o -o skinning  -ltinyobjloader /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 
