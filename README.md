@@ -149,6 +149,7 @@ This project builds upon:
 - Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images (ECCV 2018)
 - Learning Free-Form Deformations for 3D Object Reconstruction (ACCV 2018)  
 - Hyperspectral Inverse Skinning for Unsupervised Animation Extraction (TOG 2020)
+We give credit to them for using their code bases and working upon them.
 
 ## 👥 Authors
 
